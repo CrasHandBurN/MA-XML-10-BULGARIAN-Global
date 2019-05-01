@@ -1553,13 +1553,13 @@ d MMMM"</string>
     <string name="status_bar_airplane">Самолетен режим</string>
     <string name="status_bar_alarm">Аларма</string>
     <string name="status_bar_clear_all_button">Изчисти</string>
-    <string name="status_bar_clock_date_format">Е, d MMM</string>
-    <string name="status_bar_clock_date_format_12">Е, d MMM</string>
-    <string name="status_bar_clock_date_time_format">H:mm E, d MMM</string>
-    <string name="status_bar_clock_date_time_format_12">h:mm aa, Е, d MMM</string>
-    <string name="status_bar_date_format">"Е
+    <string name="status_bar_clock_date_format">EEEE, d MMM</string>
+    <string name="status_bar_clock_date_format_12">EEEE, d MMM</string>
+    <string name="status_bar_clock_date_time_format">H:mm EEEE, d MMM</string>
+    <string name="status_bar_clock_date_time_format_12">h:mm aa, EEEE, d MMM</string>
+    <string name="status_bar_date_format">"EEEE
 d MMM"</string>
-    <string name="status_bar_date_format_12">"Е
+    <string name="status_bar_date_format_12">"EEEE
 d MMM"</string>
     <string name="status_bar_ethernet">Вътрешна мрежа</string>
     <string name="status_bar_input_method_settings_configure_input_methods">Настрой методи за въвеждане</string>
